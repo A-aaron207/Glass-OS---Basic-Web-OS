@@ -42,6 +42,9 @@ This project is open source. Check the repository for license details.
 
 A-aaron207
 
+## AI usage 
+
+ AI agents were used in JS and CSS
 ---
 
 **Note:** Glass OS is a basic web-based OS project. It's designed as a learning project and proof of concept for browser-based operating systems.
